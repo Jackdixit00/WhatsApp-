@@ -1,2 +1,1 @@
-pkg install nodejs-lts
-pkg install nodejs
+Node.js v22.11.0
